@@ -1,4 +1,16 @@
 # SeReNe
+[![DOI](https://zenodo.org/badge/doi/10.1109/TNNLS.2021.3084527.svg)](http://dx.doi.org/10.1109/TNNLS.2021.3084527)
+[![arXiv](https://img.shields.io/badge/arXiv-2102.03773-b31b1b.svg)](https://arxiv.org/abs/2102.03773)
+
+```latex
+    @INPROCEEDINGS{9413062,
+    author={Tartaglione, Enzo and Grangetto, Marco and Cavagnino, Davide and Botta, Marco},
+    booktitle={2020 25th International Conference on Pattern Recognition (ICPR)}, 
+    title={Delving in the loss landscape to embed robust watermarks into neural networks}, 
+    year={2021},
+    pages={1243-1250},
+    doi={10.1109/ICPR48806.2021.9413062}}
+```
 
 ## Requirements
 * PyTorch >= 1.6.0
