@@ -1,4 +1,21 @@
-# SeReNe
+# SeReNe: Sensitivity based Regularization of Neurons for Structured Sparsity in Neural Networks
+[![DOI](https://zenodo.org/badge/doi/10.1109/TNNLS.2021.3084527.svg)](http://dx.doi.org/10.1109/TNNLS.2021.3084527)
+[![arXiv](https://img.shields.io/badge/arXiv-2102.03773-b31b1b.svg)](https://arxiv.org/abs/2102.03773)
+
+Please cite this work as
+
+```latex
+@ARTICLE{9456024,
+  author={Tartaglione, Enzo and Bragagnolo, Andrea and Odierna, Francesco and Fiandrotti, Attilio and Grangetto, Marco},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={SeReNe: Sensitivity-Based Regularization of Neurons for Structured Sparsity in Neural Networks}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TNNLS.2021.3084527}}
+
+```
 
 ## Requirements
 * PyTorch >= 1.6.0
